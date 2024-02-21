@@ -1,0 +1,5 @@
+Motifs_Count,0,1,2
+3,"[['bool'], ['bool'], ['bool'], ['decimal']]","[['bool', 'decimal'], ['bool', 'decimal'], ['bool', 'decimal'], ['decimal', 'decimal']]","[['bool', 'decimal', 'decimal'], ['bool', 'decimal', 'decimal'], ['bool', 'decimal', 'decimal'], ['decimal', 'decimal', 'bool']]"
+2,"[['bool'], ['bool'], ['bool']]","[['bool', 'decimal'], ['bool', 'decimal'], ['bool', 'decimal']]","[['bool', 'decimal', 'decimal'], ['bool', 'decimal', 'decimal'], ['bool', 'decimal', 'decimal']]"
+1,"[['bool'], ['bool']]","[['bool', 'decimal'], ['bool', 'decimal']]","[['bool', 'decimal', 'decimal'], ['bool', 'decimal', 'decimal']]"
+0,[['bool']],"[['bool', 'decimal']]","[['bool', 'decimal', 'decimal']]"

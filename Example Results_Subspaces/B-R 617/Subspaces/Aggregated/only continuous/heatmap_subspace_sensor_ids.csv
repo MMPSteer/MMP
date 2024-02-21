@@ -1,0 +1,5 @@
+Motifs_Count,0,1,2,3
+3,"[['Mean_3'], ['Mean_3'], ['Mean_3'], ['Mean_3']]","[['Mean_3', 'Mean_1'], ['Mean_3', 'Mean_1'], ['Mean_1', 'Mean_3'], ['Mean_3', 'Mean_2']]","[['Mean_3', 'Mean_1', 'Mean_2'], ['Mean_3', 'Mean_1', 'Mean_2'], ['Mean_1', 'Mean_3', 'Mean_2'], ['Mean_3', 'Mean_1', 'Mean_4']]","[['Mean_1', 'Mean_3', 'Mean_2', 'Mean_4'], ['Mean_1', 'Mean_3', 'Mean_2', 'Mean_4'], ['Mean_3', 'Mean_1', 'Mean_4', 'Mean_2'], ['Mean_3', 'Mean_1', 'Mean_4', 'Mean_2']]"
+2,"[['Mean_3'], ['Mean_3'], ['Mean_3']]","[['Mean_3', 'Mean_1'], ['Mean_3', 'Mean_1'], ['Mean_1', 'Mean_3']]","[['Mean_3', 'Mean_1', 'Mean_2'], ['Mean_3', 'Mean_1', 'Mean_2'], ['Mean_1', 'Mean_3', 'Mean_2']]","[['Mean_1', 'Mean_3', 'Mean_2', 'Mean_4'], ['Mean_1', 'Mean_3', 'Mean_2', 'Mean_4'], ['Mean_3', 'Mean_1', 'Mean_4', 'Mean_2']]"
+1,"[['Mean_3'], ['Mean_3']]","[['Mean_3', 'Mean_1'], ['Mean_3', 'Mean_1']]","[['Mean_3', 'Mean_1', 'Mean_2'], ['Mean_3', 'Mean_1', 'Mean_2']]","[['Mean_1', 'Mean_3', 'Mean_2', 'Mean_4'], ['Mean_1', 'Mean_3', 'Mean_2', 'Mean_4']]"
+0,[['Mean_3']],"[['Mean_3', 'Mean_1']]","[['Mean_3', 'Mean_1', 'Mean_2']]","[['Mean_1', 'Mean_3', 'Mean_2', 'Mean_4']]"

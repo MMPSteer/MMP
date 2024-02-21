@@ -1,0 +1,5 @@
+Motifs_Count,0,1,2
+3,"[['Sum Aggregated 1'], ['bool'], ['bool'], ['Sum Aggregated 1']]","[['Sum Aggregated 1', 'bool'], ['Sum Aggregated 1', 'bool'], ['Sum Aggregated 1', 'bool'], ['Sum Aggregated 1', 'bool']]","[['bool', 'Sum Aggregated 1', 'Sum Aggregated 2'], ['bool', 'Sum Aggregated 1', 'Sum Aggregated 2'], ['Sum Aggregated 1', 'bool', 'Sum Aggregated 2'], ['Sum Aggregated 1', 'bool', 'Sum Aggregated 2']]"
+2,"[['Sum Aggregated 1'], ['bool'], ['bool']]","[['Sum Aggregated 1', 'bool'], ['Sum Aggregated 1', 'bool'], ['Sum Aggregated 1', 'bool']]","[['bool', 'Sum Aggregated 1', 'Sum Aggregated 2'], ['bool', 'Sum Aggregated 1', 'Sum Aggregated 2'], ['Sum Aggregated 1', 'bool', 'Sum Aggregated 2']]"
+1,"[['Sum Aggregated 1'], ['bool']]","[['Sum Aggregated 1', 'bool'], ['Sum Aggregated 1', 'bool']]","[['bool', 'Sum Aggregated 1', 'Sum Aggregated 2'], ['bool', 'Sum Aggregated 1', 'Sum Aggregated 2']]"
+0,[['Sum Aggregated 1']],"[['Sum Aggregated 1', 'bool']]","[['bool', 'Sum Aggregated 1', 'Sum Aggregated 2']]"

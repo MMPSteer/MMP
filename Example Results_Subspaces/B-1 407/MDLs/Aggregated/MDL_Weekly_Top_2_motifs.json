@@ -1,0 +1,188 @@
+[
+  {
+    "k": 0,
+    "motif_subspaces": [
+      {
+        "motif_id": 1,
+        "subspace_column": [
+          2
+        ],
+        "subspace_sensor_ids": [
+          "1600"
+        ],
+        "subspace_sensor_types": [
+          "bool"
+        ],
+        "subspace_device_types": [
+          "HVAC"
+        ]
+      },
+      {
+        "motif_id": 2,
+        "subspace_column": [
+          2
+        ],
+        "subspace_sensor_ids": [
+          "1600"
+        ],
+        "subspace_sensor_types": [
+          "bool"
+        ],
+        "subspace_device_types": [
+          "HVAC"
+        ]
+      },
+      {
+        "motif_id": 3,
+        "subspace_column": [
+          2
+        ],
+        "subspace_sensor_ids": [
+          "1600"
+        ],
+        "subspace_sensor_types": [
+          "bool"
+        ],
+        "subspace_device_types": [
+          "HVAC"
+        ]
+      }
+    ]
+  },
+  {
+    "k": 1,
+    "motif_subspaces": [
+      {
+        "motif_id": 1,
+        "subspace_column": [
+          2,
+          0
+        ],
+        "subspace_sensor_ids": [
+          "1600",
+          "1620"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "decimal"
+        ],
+        "subspace_device_types": [
+          "HVAC",
+          "TEMPERATURE"
+        ]
+      },
+      {
+        "motif_id": 2,
+        "subspace_column": [
+          2,
+          0
+        ],
+        "subspace_sensor_ids": [
+          "1600",
+          "1620"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "decimal"
+        ],
+        "subspace_device_types": [
+          "HVAC",
+          "TEMPERATURE"
+        ]
+      },
+      {
+        "motif_id": 3,
+        "subspace_column": [
+          2,
+          0
+        ],
+        "subspace_sensor_ids": [
+          "1600",
+          "1620"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "decimal"
+        ],
+        "subspace_device_types": [
+          "HVAC",
+          "TEMPERATURE"
+        ]
+      }
+    ]
+  },
+  {
+    "k": 2,
+    "motif_subspaces": [
+      {
+        "motif_id": 1,
+        "subspace_column": [
+          2,
+          0,
+          1
+        ],
+        "subspace_sensor_ids": [
+          "1600",
+          "1620",
+          "1595"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "decimal",
+          "decimal"
+        ],
+        "subspace_device_types": [
+          "HVAC",
+          "TEMPERATURE",
+          "CO2"
+        ]
+      },
+      {
+        "motif_id": 2,
+        "subspace_column": [
+          2,
+          0,
+          1
+        ],
+        "subspace_sensor_ids": [
+          "1600",
+          "1620",
+          "1595"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "decimal",
+          "decimal"
+        ],
+        "subspace_device_types": [
+          "HVAC",
+          "TEMPERATURE",
+          "CO2"
+        ]
+      },
+      {
+        "motif_id": 3,
+        "subspace_column": [
+          2,
+          0,
+          1
+        ],
+        "subspace_sensor_ids": [
+          "1600",
+          "1620",
+          "1595"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "decimal",
+          "decimal"
+        ],
+        "subspace_device_types": [
+          "HVAC",
+          "TEMPERATURE",
+          "CO2"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "k": 0,
+    "motif_subspaces": [
+      {
+        "motif_id": 1,
+        "motif_idx": 0,
+        "nn_idx": 2016,
+        "subspace_column": [
+          2
+        ],
+        "subspace_sensor_ids": [
+          "2738"
+        ],
+        "subspace_sensor_types": [
+          "bool"
+        ],
+        "subspace_device_types": [
+          "MOVEMENT"
+        ]
+      },
+      {
+        "motif_id": 2,
+        "motif_idx": 2016,
+        "nn_idx": 0,
+        "subspace_column": [
+          2
+        ],
+        "subspace_sensor_ids": [
+          "2738"
+        ],
+        "subspace_sensor_types": [
+          "bool"
+        ],
+        "subspace_device_types": [
+          "MOVEMENT"
+        ]
+      }
+    ]
+  },
+  {
+    "k": 1,
+    "motif_subspaces": [
+      {
+        "motif_id": 1,
+        "motif_idx": 34272,
+        "nn_idx": 36288,
+        "subspace_column": [
+          2,
+          6
+        ],
+        "subspace_sensor_ids": [
+          "2738",
+          "2739"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "bool"
+        ],
+        "subspace_device_types": [
+          "MOVEMENT",
+          "HVAC"
+        ]
+      },
+      {
+        "motif_id": 2,
+        "motif_idx": 36288,
+        "nn_idx": 34272,
+        "subspace_column": [
+          2,
+          6
+        ],
+        "subspace_sensor_ids": [
+          "2738",
+          "2739"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "bool"
+        ],
+        "subspace_device_types": [
+          "MOVEMENT",
+          "HVAC"
+        ]
+      }
+    ]
+  },
+  {
+    "k": 2,
+    "motif_subspaces": [
+      {
+        "motif_id": 1,
+        "motif_idx": 34272,
+        "nn_idx": 36288,
+        "subspace_column": [
+          2,
+          6,
+          1
+        ],
+        "subspace_sensor_ids": [
+          "2738",
+          "2739",
+          "Sum_1"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "bool",
+          "Sum Aggregated 1"
+        ],
+        "subspace_device_types": [
+          "MOVEMENT",
+          "HVAC",
+          "2740,2741,2731,2732,2730,2729,2727,2728,2742,2743"
+        ]
+      },
+      {
+        "motif_id": 2,
+        "motif_idx": 36288,
+        "nn_idx": 34272,
+        "subspace_column": [
+          2,
+          6,
+          1
+        ],
+        "subspace_sensor_ids": [
+          "2738",
+          "2739",
+          "Sum_1"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "bool",
+          "Sum Aggregated 1"
+        ],
+        "subspace_device_types": [
+          "MOVEMENT",
+          "HVAC",
+          "2740,2741,2731,2732,2730,2729,2727,2728,2742,2743"
+        ]
+      }
+    ]
+  },
+  {
+    "k": 3,
+    "motif_subspaces": [
+      {
+        "motif_id": 1,
+        "motif_idx": 36288,
+        "nn_idx": 34272,
+        "subspace_column": [
+          2,
+          6,
+          1,
+          5
+        ],
+        "subspace_sensor_ids": [
+          "2738",
+          "2739",
+          "Sum_1",
+          "2733"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "bool",
+          "Sum Aggregated 1",
+          "decimal"
+        ],
+        "subspace_device_types": [
+          "MOVEMENT",
+          "HVAC",
+          "2740,2741,2731,2732,2730,2729,2727,2728,2742,2743",
+          "LUX"
+        ]
+      },
+      {
+        "motif_id": 2,
+        "motif_idx": 34272,
+        "nn_idx": 36288,
+        "subspace_column": [
+          2,
+          6,
+          1,
+          5
+        ],
+        "subspace_sensor_ids": [
+          "2738",
+          "2739",
+          "Sum_1",
+          "2733"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "bool",
+          "Sum Aggregated 1",
+          "decimal"
+        ],
+        "subspace_device_types": [
+          "MOVEMENT",
+          "HVAC",
+          "2740,2741,2731,2732,2730,2729,2727,2728,2742,2743",
+          "LUX"
+        ]
+      }
+    ]
+  },
+  {
+    "k": 4,
+    "motif_subspaces": [
+      {
+        "motif_id": 1,
+        "motif_idx": 36288,
+        "nn_idx": 34272,
+        "subspace_column": [
+          2,
+          6,
+          1,
+          5,
+          4
+        ],
+        "subspace_sensor_ids": [
+          "2738",
+          "2739",
+          "Sum_1",
+          "2733",
+          "2735"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "bool",
+          "Sum Aggregated 1",
+          "decimal",
+          "decimal"
+        ],
+        "subspace_device_types": [
+          "MOVEMENT",
+          "HVAC",
+          "2740,2741,2731,2732,2730,2729,2727,2728,2742,2743",
+          "LUX",
+          "TEMPERATURE"
+        ]
+      },
+      {
+        "motif_id": 2,
+        "motif_idx": 34272,
+        "nn_idx": 36288,
+        "subspace_column": [
+          2,
+          6,
+          1,
+          5,
+          4
+        ],
+        "subspace_sensor_ids": [
+          "2738",
+          "2739",
+          "Sum_1",
+          "2733",
+          "2735"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "bool",
+          "Sum Aggregated 1",
+          "decimal",
+          "decimal"
+        ],
+        "subspace_device_types": [
+          "MOVEMENT",
+          "HVAC",
+          "2740,2741,2731,2732,2730,2729,2727,2728,2742,2743",
+          "LUX",
+          "TEMPERATURE"
+        ]
+      }
+    ]
+  },
+  {
+    "k": 5,
+    "motif_subspaces": [
+      {
+        "motif_id": 1,
+        "motif_idx": 34272,
+        "nn_idx": 38304,
+        "subspace_column": [
+          2,
+          6,
+          5,
+          1,
+          3,
+          0
+        ],
+        "subspace_sensor_ids": [
+          "2738",
+          "2739",
+          "2733",
+          "Sum_1",
+          "2737",
+          "2736"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "bool",
+          "decimal",
+          "Sum Aggregated 1",
+          "decimal",
+          "decimal"
+        ],
+        "subspace_device_types": [
+          "MOVEMENT",
+          "HVAC",
+          "LUX",
+          "2740,2741,2731,2732,2730,2729,2727,2728,2742,2743",
+          "CO2",
+          "HUMIDITY"
+        ]
+      },
+      {
+        "motif_id": 2,
+        "motif_idx": 38304,
+        "nn_idx": 34272,
+        "subspace_column": [
+          2,
+          6,
+          5,
+          1,
+          3,
+          0
+        ],
+        "subspace_sensor_ids": [
+          "2738",
+          "2739",
+          "2733",
+          "Sum_1",
+          "2737",
+          "2736"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "bool",
+          "decimal",
+          "Sum Aggregated 1",
+          "decimal",
+          "decimal"
+        ],
+        "subspace_device_types": [
+          "MOVEMENT",
+          "HVAC",
+          "LUX",
+          "2740,2741,2731,2732,2730,2729,2727,2728,2742,2743",
+          "CO2",
+          "HUMIDITY"
+        ]
+      }
+    ]
+  },
+  {
+    "k": 6,
+    "motif_subspaces": [
+      {
+        "motif_id": 1,
+        "motif_idx": 34272,
+        "nn_idx": 38304,
+        "subspace_column": [
+          2,
+          6,
+          5,
+          1,
+          3,
+          0,
+          4
+        ],
+        "subspace_sensor_ids": [
+          "2738",
+          "2739",
+          "2733",
+          "Sum_1",
+          "2737",
+          "2736",
+          "2735"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "bool",
+          "decimal",
+          "Sum Aggregated 1",
+          "decimal",
+          "decimal",
+          "decimal"
+        ],
+        "subspace_device_types": [
+          "MOVEMENT",
+          "HVAC",
+          "LUX",
+          "2740,2741,2731,2732,2730,2729,2727,2728,2742,2743",
+          "CO2",
+          "HUMIDITY",
+          "TEMPERATURE"
+        ]
+      },
+      {
+        "motif_id": 2,
+        "motif_idx": 38304,
+        "nn_idx": 34272,
+        "subspace_column": [
+          2,
+          6,
+          5,
+          1,
+          3,
+          0,
+          4
+        ],
+        "subspace_sensor_ids": [
+          "2738",
+          "2739",
+          "2733",
+          "Sum_1",
+          "2737",
+          "2736",
+          "2735"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "bool",
+          "decimal",
+          "Sum Aggregated 1",
+          "decimal",
+          "decimal",
+          "decimal"
+        ],
+        "subspace_device_types": [
+          "MOVEMENT",
+          "HVAC",
+          "LUX",
+          "2740,2741,2731,2732,2730,2729,2727,2728,2742,2743",
+          "CO2",
+          "HUMIDITY",
+          "TEMPERATURE"
+        ]
+      }
+    ]
+  }
+]

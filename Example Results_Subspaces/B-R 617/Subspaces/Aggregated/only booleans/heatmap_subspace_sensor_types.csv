@@ -1,0 +1,5 @@
+Motifs_Count,0,1,2
+3,"[['Mean Aggregated 1'], ['bool'], ['bool'], ['Mean Aggregated 1']]","[['Mean Aggregated 1', 'bool'], ['Mean Aggregated 1', 'bool'], ['Mean Aggregated 1', 'bool'], ['Mean Aggregated 1', 'bool']]","[['bool', 'Mean Aggregated 1', 'Mean Aggregated 2'], ['bool', 'Mean Aggregated 1', 'Mean Aggregated 2'], ['Mean Aggregated 1', 'bool', 'Mean Aggregated 2'], ['Mean Aggregated 1', 'bool', 'Mean Aggregated 2']]"
+2,"[['Mean Aggregated 1'], ['bool'], ['bool']]","[['Mean Aggregated 1', 'bool'], ['Mean Aggregated 1', 'bool'], ['Mean Aggregated 1', 'bool']]","[['bool', 'Mean Aggregated 1', 'Mean Aggregated 2'], ['bool', 'Mean Aggregated 1', 'Mean Aggregated 2'], ['Mean Aggregated 1', 'bool', 'Mean Aggregated 2']]"
+1,"[['Mean Aggregated 1'], ['bool']]","[['Mean Aggregated 1', 'bool'], ['Mean Aggregated 1', 'bool']]","[['bool', 'Mean Aggregated 1', 'Mean Aggregated 2'], ['bool', 'Mean Aggregated 1', 'Mean Aggregated 2']]"
+0,[['Mean Aggregated 1']],"[['Mean Aggregated 1', 'bool']]","[['bool', 'Mean Aggregated 1', 'Mean Aggregated 2']]"

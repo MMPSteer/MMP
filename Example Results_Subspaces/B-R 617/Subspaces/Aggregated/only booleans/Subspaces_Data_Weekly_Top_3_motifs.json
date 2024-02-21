@@ -1,0 +1,269 @@
+[
+  {
+    "k": 0,
+    "motif_subspaces": [
+      {
+        "motif_id": 1,
+        "motif_idx": 0,
+        "nn_idx": 2016,
+        "subspace_column": [
+          1
+        ],
+        "subspace_sensor_ids": [
+          "Mean_1"
+        ],
+        "subspace_sensor_types": [
+          "Mean Aggregated 1"
+        ],
+        "subspace_device_types": [
+          "2788,2786"
+        ]
+      },
+      {
+        "motif_id": 2,
+        "motif_idx": 6048,
+        "nn_idx": 8064,
+        "subspace_column": [
+          0
+        ],
+        "subspace_sensor_ids": [
+          "2787"
+        ],
+        "subspace_sensor_types": [
+          "bool"
+        ],
+        "subspace_device_types": [
+          "HVAC"
+        ]
+      },
+      {
+        "motif_id": 3,
+        "motif_idx": 8064,
+        "nn_idx": 6048,
+        "subspace_column": [
+          0
+        ],
+        "subspace_sensor_ids": [
+          "2787"
+        ],
+        "subspace_sensor_types": [
+          "bool"
+        ],
+        "subspace_device_types": [
+          "HVAC"
+        ]
+      },
+      {
+        "motif_id": 4,
+        "motif_idx": 22176,
+        "nn_idx": 2016,
+        "subspace_column": [
+          1
+        ],
+        "subspace_sensor_ids": [
+          "Mean_1"
+        ],
+        "subspace_sensor_types": [
+          "Mean Aggregated 1"
+        ],
+        "subspace_device_types": [
+          "2788,2786"
+        ]
+      }
+    ]
+  },
+  {
+    "k": 1,
+    "motif_subspaces": [
+      {
+        "motif_id": 1,
+        "motif_idx": 22176,
+        "nn_idx": 0,
+        "subspace_column": [
+          1,
+          0
+        ],
+        "subspace_sensor_ids": [
+          "Mean_1",
+          "2787"
+        ],
+        "subspace_sensor_types": [
+          "Mean Aggregated 1",
+          "bool"
+        ],
+        "subspace_device_types": [
+          "2788,2786",
+          "HVAC"
+        ]
+      },
+      {
+        "motif_id": 2,
+        "motif_idx": 16128,
+        "nn_idx": 0,
+        "subspace_column": [
+          1,
+          0
+        ],
+        "subspace_sensor_ids": [
+          "Mean_1",
+          "2787"
+        ],
+        "subspace_sensor_types": [
+          "Mean Aggregated 1",
+          "bool"
+        ],
+        "subspace_device_types": [
+          "2788,2786",
+          "HVAC"
+        ]
+      },
+      {
+        "motif_id": 3,
+        "motif_idx": 20160,
+        "nn_idx": 24192,
+        "subspace_column": [
+          1,
+          0
+        ],
+        "subspace_sensor_ids": [
+          "Mean_1",
+          "2787"
+        ],
+        "subspace_sensor_types": [
+          "Mean Aggregated 1",
+          "bool"
+        ],
+        "subspace_device_types": [
+          "2788,2786",
+          "HVAC"
+        ]
+      },
+      {
+        "motif_id": 4,
+        "motif_idx": 24192,
+        "nn_idx": 20160,
+        "subspace_column": [
+          1,
+          0
+        ],
+        "subspace_sensor_ids": [
+          "Mean_1",
+          "2787"
+        ],
+        "subspace_sensor_types": [
+          "Mean Aggregated 1",
+          "bool"
+        ],
+        "subspace_device_types": [
+          "2788,2786",
+          "HVAC"
+        ]
+      }
+    ]
+  },
+  {
+    "k": 2,
+    "motif_subspaces": [
+      {
+        "motif_id": 1,
+        "motif_idx": 6048,
+        "nn_idx": 8064,
+        "subspace_column": [
+          0,
+          1,
+          2
+        ],
+        "subspace_sensor_ids": [
+          "2787",
+          "Mean_1",
+          "Mean_2"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "Mean Aggregated 1",
+          "Mean Aggregated 2"
+        ],
+        "subspace_device_types": [
+          "HVAC",
+          "2788,2786",
+          "2780,2779"
+        ]
+      },
+      {
+        "motif_id": 2,
+        "motif_idx": 8064,
+        "nn_idx": 6048,
+        "subspace_column": [
+          0,
+          1,
+          2
+        ],
+        "subspace_sensor_ids": [
+          "2787",
+          "Mean_1",
+          "Mean_2"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "Mean Aggregated 1",
+          "Mean Aggregated 2"
+        ],
+        "subspace_device_types": [
+          "HVAC",
+          "2788,2786",
+          "2780,2779"
+        ]
+      },
+      {
+        "motif_id": 3,
+        "motif_idx": 22176,
+        "nn_idx": 0,
+        "subspace_column": [
+          1,
+          0,
+          2
+        ],
+        "subspace_sensor_ids": [
+          "Mean_1",
+          "2787",
+          "Mean_2"
+        ],
+        "subspace_sensor_types": [
+          "Mean Aggregated 1",
+          "bool",
+          "Mean Aggregated 2"
+        ],
+        "subspace_device_types": [
+          "2788,2786",
+          "HVAC",
+          "2780,2779"
+        ]
+      },
+      {
+        "motif_id": 4,
+        "motif_idx": 16128,
+        "nn_idx": 0,
+        "subspace_column": [
+          1,
+          0,
+          2
+        ],
+        "subspace_sensor_ids": [
+          "Mean_1",
+          "2787",
+          "Mean_2"
+        ],
+        "subspace_sensor_types": [
+          "Mean Aggregated 1",
+          "bool",
+          "Mean Aggregated 2"
+        ],
+        "subspace_device_types": [
+          "2788,2786",
+          "HVAC",
+          "2780,2779"
+        ]
+      }
+    ]
+  }
+]

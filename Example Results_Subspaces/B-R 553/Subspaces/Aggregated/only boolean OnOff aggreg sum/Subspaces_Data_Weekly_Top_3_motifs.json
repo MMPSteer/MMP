@@ -1,0 +1,269 @@
+[
+  {
+    "k": 0,
+    "motif_subspaces": [
+      {
+        "motif_id": 1,
+        "motif_idx": 0,
+        "nn_idx": 2016,
+        "subspace_column": [
+          1
+        ],
+        "subspace_sensor_ids": [
+          "2738"
+        ],
+        "subspace_sensor_types": [
+          "bool"
+        ],
+        "subspace_device_types": [
+          "MOVEMENT"
+        ]
+      },
+      {
+        "motif_id": 2,
+        "motif_idx": 2016,
+        "nn_idx": 0,
+        "subspace_column": [
+          1
+        ],
+        "subspace_sensor_ids": [
+          "2738"
+        ],
+        "subspace_sensor_types": [
+          "bool"
+        ],
+        "subspace_device_types": [
+          "MOVEMENT"
+        ]
+      },
+      {
+        "motif_id": 3,
+        "motif_idx": 6048,
+        "nn_idx": 0,
+        "subspace_column": [
+          1
+        ],
+        "subspace_sensor_ids": [
+          "2738"
+        ],
+        "subspace_sensor_types": [
+          "bool"
+        ],
+        "subspace_device_types": [
+          "MOVEMENT"
+        ]
+      },
+      {
+        "motif_id": 4,
+        "motif_idx": 24192,
+        "nn_idx": 0,
+        "subspace_column": [
+          1
+        ],
+        "subspace_sensor_ids": [
+          "2738"
+        ],
+        "subspace_sensor_types": [
+          "bool"
+        ],
+        "subspace_device_types": [
+          "MOVEMENT"
+        ]
+      }
+    ]
+  },
+  {
+    "k": 1,
+    "motif_subspaces": [
+      {
+        "motif_id": 1,
+        "motif_idx": 34272,
+        "nn_idx": 36288,
+        "subspace_column": [
+          1,
+          0
+        ],
+        "subspace_sensor_ids": [
+          "2738",
+          "2739"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "bool"
+        ],
+        "subspace_device_types": [
+          "MOVEMENT",
+          "HVAC"
+        ]
+      },
+      {
+        "motif_id": 2,
+        "motif_idx": 36288,
+        "nn_idx": 34272,
+        "subspace_column": [
+          1,
+          0
+        ],
+        "subspace_sensor_ids": [
+          "2738",
+          "2739"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "bool"
+        ],
+        "subspace_device_types": [
+          "MOVEMENT",
+          "HVAC"
+        ]
+      },
+      {
+        "motif_id": 3,
+        "motif_idx": 40320,
+        "nn_idx": 36288,
+        "subspace_column": [
+          1,
+          0
+        ],
+        "subspace_sensor_ids": [
+          "2738",
+          "2739"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "bool"
+        ],
+        "subspace_device_types": [
+          "MOVEMENT",
+          "HVAC"
+        ]
+      },
+      {
+        "motif_id": 4,
+        "motif_idx": 38304,
+        "nn_idx": 34272,
+        "subspace_column": [
+          1,
+          0
+        ],
+        "subspace_sensor_ids": [
+          "2738",
+          "2739"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "bool"
+        ],
+        "subspace_device_types": [
+          "MOVEMENT",
+          "HVAC"
+        ]
+      }
+    ]
+  },
+  {
+    "k": 2,
+    "motif_subspaces": [
+      {
+        "motif_id": 1,
+        "motif_idx": 34272,
+        "nn_idx": 36288,
+        "subspace_column": [
+          1,
+          0,
+          2
+        ],
+        "subspace_sensor_ids": [
+          "2738",
+          "2739",
+          "Sum_1"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "bool",
+          "Sum Aggregated 1"
+        ],
+        "subspace_device_types": [
+          "MOVEMENT",
+          "HVAC",
+          "2740,2741,2731,2732,2730,2729,2727,2728,2742,2743"
+        ]
+      },
+      {
+        "motif_id": 2,
+        "motif_idx": 36288,
+        "nn_idx": 34272,
+        "subspace_column": [
+          1,
+          0,
+          2
+        ],
+        "subspace_sensor_ids": [
+          "2738",
+          "2739",
+          "Sum_1"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "bool",
+          "Sum Aggregated 1"
+        ],
+        "subspace_device_types": [
+          "MOVEMENT",
+          "HVAC",
+          "2740,2741,2731,2732,2730,2729,2727,2728,2742,2743"
+        ]
+      },
+      {
+        "motif_id": 3,
+        "motif_idx": 40320,
+        "nn_idx": 36288,
+        "subspace_column": [
+          1,
+          0,
+          2
+        ],
+        "subspace_sensor_ids": [
+          "2738",
+          "2739",
+          "Sum_1"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "bool",
+          "Sum Aggregated 1"
+        ],
+        "subspace_device_types": [
+          "MOVEMENT",
+          "HVAC",
+          "2740,2741,2731,2732,2730,2729,2727,2728,2742,2743"
+        ]
+      },
+      {
+        "motif_id": 4,
+        "motif_idx": 38304,
+        "nn_idx": 34272,
+        "subspace_column": [
+          1,
+          0,
+          2
+        ],
+        "subspace_sensor_ids": [
+          "2738",
+          "2739",
+          "Sum_1"
+        ],
+        "subspace_sensor_types": [
+          "bool",
+          "bool",
+          "Sum Aggregated 1"
+        ],
+        "subspace_device_types": [
+          "MOVEMENT",
+          "HVAC",
+          "2740,2741,2731,2732,2730,2729,2727,2728,2742,2743"
+        ]
+      }
+    ]
+  }
+]
